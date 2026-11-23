@@ -1,7 +1,7 @@
 # Hi, I'm Kashid Asrif Rohan 👋
 
 Diploma in Engineering (Computer Science & Technology) student at Lakshmipur Government Polytechnic Institute (Session 2025–26).  
-My goal is to become a **Network Automation & IT Infrastructure Engineer**.
+My goal is to become a **Network Automation & IT support  Engineer**.
 
 ## 🎯 Currently Learning
 - **CCNA:** IP Addressing, Subnetting, VLANs, Routing & Switching
