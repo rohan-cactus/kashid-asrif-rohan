@@ -17,7 +17,7 @@ My goal is to become a **Network Automation Engineer**.
 Python| Computer Networking | Computer Hardware | Windows & Ubuntu Setup | Git & GitHub
 
 ## 📂 Projects
-- 🔧 In progress: Computer Hardware & Diagnostics project *(coming soon)*
+- 🔧 In progress: PC Disassembly & Assembly 
 
 ## 🌱 Next Goals
 - Build Python + networking projects 
